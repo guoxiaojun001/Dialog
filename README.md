@@ -18,3 +18,6 @@ dialog 去除外边框的问题
         // 必须使用这个方法,不能使用dialog.setView()的方法
         myDialog.getWindow().setContentView(R.layout.dialogview);
         dialogWindow.setAttributes(params);
+
+dialogfragment 弹出不显示导航栏问题
+https://www.jianshu.com/p/6d48fd0ce177
